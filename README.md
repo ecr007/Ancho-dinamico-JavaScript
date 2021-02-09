@@ -40,9 +40,9 @@ function fullWidthRow() {
     jQuery(window).resize(function(){
         fullWidthRow();
     });
-    ```
+```
     
-    ```html
+```html
   <div class="container">
     <div class="cari-main-banner" data-vc-full-width="true" data-vc-full-width-init="true">
       <div class="cari-main-control">
